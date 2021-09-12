@@ -14,7 +14,7 @@
   <img align="center" alt="Rui-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg"/>
   <img align="center" alt="Rui-putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg"/>
   
-  <img align="right" alt="Rui-PixelArt" src="https://cdn.discordapp.com/attachments/855772160931921920/886725750131150858/Rui.png" width="200">
+  <img align="right" alt="Rui-PixelArt" src="https://cdn.discordapp.com/attachments/855772160931921920/886732239805747271/Rui.png" width="110">
   <!--
   <img align="center" alt="Rui-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rui-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
@@ -29,6 +29,7 @@
   <a href="https://music.youtube.com/channel/UCp7TYN2yA6tPmva2Eq0LzrA"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a>
   <a href = "mailto:ruimmpereira2002@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.crunchyroll.com/user/Ruimmp"><img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" target="_blank"></a>
+ 
   ![Snake animation](https://github.com/Ruimmp/Ruimmp/blob/output/github-contribution-grid-snake.svg)
   
 </div>
