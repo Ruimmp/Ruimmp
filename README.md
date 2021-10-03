@@ -14,7 +14,7 @@
   <img align="center" alt="Rui-mysql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Rui-putty" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   
-  <img align="right" alt="Rui-PixelArt" src="https://cdn.discordapp.com/attachments/855772160931921920/886732239805747271/Rui.png" width="110">
+  <img align="right" alt="Rui-PixelArt" src="https://cdn.discordapp.com/attachments/830920283610677318/894205109137985556/CrywolfSkin.png" width="110">
   <!--
   <img align="center" alt="Rui-php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
   <img align="center" alt="Rui-java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
