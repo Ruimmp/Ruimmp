@@ -2,7 +2,7 @@
  <div>
   <a href="https://github.com/Ruimmp">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruimmp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruimmp&layout=compact&langs_count=7&theme=tokyonight">-->
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruimmp&layout=compact&langs_count=7&theme=tokyonight">
 </div>
 
 <div style="display: inline_block"><br>
@@ -15,10 +15,6 @@
   <img align="center" alt="PUTTY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
   
   <img align="right" alt="PixelArt" src="https://cdn.discordapp.com/attachments/830920283610677318/894205109137985556/CrywolfSkin.png" width="110">
-  <!--
-  <img align="center" alt="PHP" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  -->
 
 </div>
   
