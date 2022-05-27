@@ -1,37 +1,43 @@
-## Hello, I'm Rui!
- <div>
-  <a href="https://github.com/Ruimmp">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Ruimmp&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true">
-  <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ruimmp&layout=compact&langs_count=7&theme=tokyonight">-->
-</div>
+<h3 align="center">
+    Hi, I'm Rui!
+    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+</h3>
 
-<div style="display: inline_block"><br>
-  <img align="center" alt="C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg">
-  <img align="center" alt="Csharp" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg">
-  <img align="center" alt="HTML5" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS3" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
-  <img align="center" alt="PUTTY" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/putty/putty-original.svg">
-  
-  <img align="right" alt="PixelArt" src="https://cdn.discordapp.com/attachments/830920283610677318/894205109137985556/CrywolfSkin.png" width="110">
+<p align="center">
+    <a href="https://github.com/Ruimmp/Ruimmp"><img
+            src="https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=32FEFFFF&center=true&vCenter=true&lines=Welcome+to+my+Github+page;My+name+is+Rui;I'm+studying+IT+at+the+CPNV"></a>
+</p>
 
-</div>
-  
-  ## 
-  
-<div>
- <!--<a href = "mailto:GMAILHERE"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>-->
-  <a href="https://www.youtube.com/channel/UCp7TYN2yA6tPmva2Eq0LzrA" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://music.youtube.com/channel/UCp7TYN2yA6tPmva2Eq0LzrA"><img src="https://img.shields.io/badge/YouTube_Music-FF0000?style=for-the-badge&logo=youtube-music&logoColor=white" target="_blank"></a>
-  <a href="https://www.crunchyroll.com/user/Ruimmp"><img src="https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white" target="_blank"></a>
- 
-  ![Snake animation](https://github.com/Ruimmp/Ruimmp/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
-  
-<!--
-  <a href="https://instagram.com/username" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/username" target="_blank"><img src="https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white" target="_blank"></a>
-  <a href="https://discord.gg/invitecode" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
--->
+---
+
+<h3 align="center">📊 Github Stats</h3>
+<p align="center">
+    <img height:"10%"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&hide_border=true" />
+    <img width="49.5%"
+        src="https://github-readme-stats.vercel.app/api/?username=Ruimmp&theme=algolia&hide_border=true&show_icons=true" />
+</p>
+
+<h3 align="center">⚡ Recent GitHub Activity</h3>
+<br />
+<a href="https://github.com/Ruimmp"><img alt="Ruimmp's Activity Graph"
+        src="https://activity-graph.herokuapp.com/graph?username=Ruimmp&custom_title=Ruimmp's%20Contribution%20Graph&theme=react-dark" /></a>
+<br />
+
+<h3 align="center"> Git profile Trophies</h3>
+<p align="center">
+    <a href="https://github.com/ryo-ma/github-profile-trophy"><img
+            src="https://github-profile-trophy.vercel.app/?username=Ruimmp&layout=compact&theme=algolia"
+            alt="Ruimmp" /></a>
+</p>
+
+---
+
+<h3 align="center">📍 Profile Visitor Count</h3>
+<p align="center">
+    <img src="https://profile-counter.glitch.me/Ruimmp/count.svg" />
+</p>
+
+<p align="center">
+    <img src="https://github.com/Ruimmp/Ruimmp/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+</p>
