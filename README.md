@@ -39,5 +39,5 @@
 </p>
 
 <p align="center">
-    <img src="https://github.com/Ruimmp/Ruimmp/raw/output/github-contribution-grid-snake.svg" alt="snake"></center>
+    <img src="https://github.com/Ruimmp/Ruimmp/blob/output/github-contribution-grid-snake.svg" />
 </p>
