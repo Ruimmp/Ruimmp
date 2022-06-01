@@ -30,11 +30,15 @@
         src="https://github-readme-stats.vercel.app/api/?username=Ruimmp&theme=algolia&hide_border=true&show_icons=true" />
 </p>
 
+---
+
 <h3 align="center">⚡ Recent GitHub Activity</h3>
 <br />
 <a href="https://github.com/Ruimmp"><img
         src="https://activity-graph.herokuapp.com/graph?username=Ruimmp&custom_title=Ruimmp's%20Contribution%20Graph&theme=react-dark" /></a>
 <br />
+
+---
 
 <h3 align="center"> Git profile Trophies</h3>
 <p align="center">
