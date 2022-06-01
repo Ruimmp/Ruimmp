@@ -10,7 +10,7 @@
 
 ---
 
-<h3 align="center">🪐 About Me</h3>
+<a href="http://ruimmp.me/"><h3 align="center">🪐 About Me</h3></a>
 <p align="center">
     Currently studying IT at the CPNV.<br>
     I was born in Portugal where I studied for 13 years and currently I have been living in Switzerland for 8 years.<br>
