@@ -10,6 +10,18 @@
 
 ---
 
+<h3 align="center">🪐 About Me</h3>
+<p align="center">
+    Currently studying IT at the CPNV.<br>
+    I was born in Portugal where I studied for 13 years and currently I have been living in Switzerland for 8 years.<br>
+    When I came to Switzerland, great opportunities opened up in linguistic terms, nowadays I am fluent in
+    2 languages, being Portuguese and French, other than that I also know how to express myself in English normally
+    and I studied German for 4 years, but I don't remember almost anything.<br><br>
+    I love philosophical phrases, peace and distracting my head exploring new things to learn.
+</p>
+
+---
+
 <h3 align="center">📊 Github Stats</h3>
 <p align="center">
     <img height:"10%"
@@ -20,15 +32,14 @@
 
 <h3 align="center">⚡ Recent GitHub Activity</h3>
 <br />
-<a href="https://github.com/Ruimmp"><img alt="Ruimmp's Activity Graph"
+<a href="https://github.com/Ruimmp"><img
         src="https://activity-graph.herokuapp.com/graph?username=Ruimmp&custom_title=Ruimmp's%20Contribution%20Graph&theme=react-dark" /></a>
 <br />
 
 <h3 align="center"> Git profile Trophies</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=Ruimmp&layout=compact&theme=algolia"
-            alt="Ruimmp" /></a>
+            src="https://github-profile-trophy.vercel.app/?username=Ruimmp&layout=compact&theme=algolia" /></a>
 </p>
 
 ---
