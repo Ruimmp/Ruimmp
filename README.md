@@ -21,6 +21,11 @@
 </p>
 
 ---
+<h3 align="center">
+    <img src="https://lanyard.cnrad.dev/api/803658045736878080"> <br/><br/>
+</p>
+
+---
 
 <h3 align="center">📊 Github Stats</h3>
 <p align="center">
