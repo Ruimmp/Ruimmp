@@ -30,9 +30,7 @@
 <h3 align="center">📊 Github Stats</h3>
 <p align="center">
     <img height:"10%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&hide_border=true" />
-    <img width="49.5%"
-        src="https://github-readme-stats.vercel.app/api/?username=Ruimmp&theme=algolia&hide_border=true&show_icons=true" />
+        src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&background=FFFFFF00&hide_border=true" />
 </p>
 
 ---
