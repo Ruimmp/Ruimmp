@@ -41,7 +41,7 @@
 <h3 align="center"> Git profile Trophies</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=Ruimmp&layout=compact&theme=algolia" /></a>
+            src="https://github-profile-trophy.vercel.app/?username=Ruimmp&theme=alduin&column=4&margin-w=15&margin-h=15&no-frame=true" /></a>
 </p>
 
 ---
