@@ -27,7 +27,7 @@
     <img height:"10%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&background=FFFFFF00&hide_border=true" />
 </p>
-
+<!--
 ---
 
 <h3 align="center">⚡ Recent GitHub Activity</h3>
@@ -35,6 +35,7 @@
 <a href="https://github.com/Ruimmp"><img
         src="https://activity-graph.herokuapp.com/graph?username=Ruimmp&custom_title=Ruimmp's%20Contribution%20Graph&theme=react-dark" /></a>
 <br />
+-->
 
 ---
 
@@ -51,6 +52,8 @@
     <img src="https://profile-counter.glitch.me/Ruimmp/count.svg" />
 </p>
 
+<!--
 <p align="center">
     <img src="https://github.com/Ruimmp/Ruimmp/blob/output/github-contribution-grid-snake.svg" />
 </p>
+-->
