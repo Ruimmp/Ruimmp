@@ -29,9 +29,10 @@
     <img height:"10%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&background=FFFFFF00&hide_border=true" />
 </p>
----
 
 <!--
+---
+
 <h3 align="center">⚡ Recent GitHub Activity</h3>
 <br />
 <a href="https://github.com/Ruimmp"><img
