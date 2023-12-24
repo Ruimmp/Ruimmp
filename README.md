@@ -10,7 +10,9 @@
 
 ---
 
-<a href="http://ruimmp.me/"><h3 align="center">🪐 About Me</h3></a>
+<a href="http://ruimmp.me/">
+    <h3 align="center">🪐 About Me</h3>
+</a>
 <p align="center">
     Currently studying IT at the CPNV.<br>
     I was born in Portugal where I studied for 13 years and currently I have been living in Switzerland for 8 years.<br>
@@ -27,9 +29,9 @@
     <img height:"10%"
         src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&background=FFFFFF00&hide_border=true" />
 </p>
-<!--
 ---
 
+<!--
 <h3 align="center">⚡ Recent GitHub Activity</h3>
 <br />
 <a href="https://github.com/Ruimmp"><img
