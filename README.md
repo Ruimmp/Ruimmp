@@ -4,8 +4,9 @@
 </h3>
 
 <p align="center">
-    <a href="https://github.com/Ruimmp/Ruimmp"><img
-            src="https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=32FEFFFF&center=true&vCenter=true&lines=Welcome+to+my+Github+page;My+name+is+Rui;I'm+studying+IT+at+the+CPNV"></a>
+    <a href="https://github.com/Ruimmp/Ruimmp">
+        <img src="https://readme-typing-svg.herokuapp.com?size=24&duration=6000&color=32FEFFFF&center=true&vCenter=true&lines=Welcome+to+my+Github+page;My+name+is+Rui;I'm+studying+IT+at+the+CPNV"/>
+    </a>
 </p>
 
 ---
@@ -26,37 +27,21 @@
 
 <h3 align="center">📊 Github Stats</h3>
 <p align="center">
-    <img height:"10%"
-        src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&background=FFFFFF00&hide_border=true" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&background=FFFFFF00&hide_border=true" height:"10%"/>
 </p>
-
-<!--
----
-
-<h3 align="center">⚡ Recent GitHub Activity</h3>
-<br />
-<a href="https://github.com/Ruimmp"><img
-        src="https://activity-graph.herokuapp.com/graph?username=Ruimmp&custom_title=Ruimmp's%20Contribution%20Graph&theme=react-dark" /></a>
-<br />
--->
 
 ---
 
 <h3 align="center"> Git profile Trophies</h3>
 <p align="center">
-    <a href="https://github.com/ryo-ma/github-profile-trophy"><img
-            src="https://github-profile-trophy.vercel.app/?username=Ruimmp&theme=alduin&column=4&margin-w=15&margin-h=15&no-frame=true" /></a>
+    <a href="https://github.com/ryo-ma/github-profile-trophy">
+        <img src="https://github-profile-trophy.vercel.app/?username=Ruimmp&theme=alduin&column=4&margin-w=15&margin-h=15&no-frame=true"/>
+    </a>
 </p>
 
 ---
 
 <h3 align="center">📍 Profile Visitor Count</h3>
 <p align="center">
-    <img src="https://profile-counter.glitch.me/Ruimmp/count.svg" />
+    <img src="https://profile-counter.glitch.me/Ruimmp/count.svg"/>
 </p>
-
-<!--
-<p align="center">
-    <img src="https://github.com/Ruimmp/Ruimmp/blob/output/github-contribution-grid-snake.svg" />
-</p>
--->
