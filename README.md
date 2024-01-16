@@ -25,13 +25,6 @@
 
 ---
 
-<h3 align="center">📊 Github Stats</h3>
-<p align="center">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Ruimmp&theme=algolia&background=FFFFFF00&hide_border=true" height:"10%"/>
-</p>
-
----
-
 <h3 align="center"> Git profile Trophies</h3>
 <p align="center">
     <a href="https://github.com/ryo-ma/github-profile-trophy">
