@@ -90,12 +90,12 @@
   <br>
   <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card -->
   <a>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimmp&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&custom_title=Coding Activity" alt="My Weekly Coding Activity" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimmp&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&title_color=FFFFFF" alt="My Weekly Coding Activity" />
   </a>
   <br>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
   <a>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimmp&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&hide=html,css&exclude_repo=ruimmp.github.io&card_width=445&custom_title=Most Used Languages&title_color=FFFFFF" alt="My Most Used Languages" />
+    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimmp&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&hide=html,css&exclude_repo=ruimmp.github.io&card_width=445&title_color=FFFFFF" alt="My Most Used Languages" />
   </a>
 </p>
 
