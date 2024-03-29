@@ -69,7 +69,7 @@
 </p>
 
 <p align="center">
-    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ikarcj39nra5gvbmh1zyd1jjj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ikarcj39nra5gvbmh1zyd1jjj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true" />
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ikarcj39nra5gvbmh1zyd1jjj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ikarcj39nra5gvbmh1zyd1jjj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=false" />
 </p>
 
 <p align="center">
