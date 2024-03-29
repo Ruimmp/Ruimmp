@@ -1,16 +1,6 @@
-<h1 align="center">[Ruimmp]</h1>
-
-<!-- <p align="center">
-    Curioso
-  <img src="" alt="Arte do Perfil" />
-</p>
- -->
----
-
 <p align="center">
   <b>🌐 Escolha outro idioma / Choisissez une autre langue:</b>
 </p>
-
 
 <p align="center">
   <!-- 
@@ -43,5 +33,6 @@
 </p>
 
 <!--START_SECTION:activity-->
-
 <!--END_SECTION:activity-->
+
+---
