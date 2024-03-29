@@ -90,7 +90,7 @@
   <br>
   <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card -->
   <a>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimmp&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&custom_title=Coding Activity&title_color=FFFFFF" alt="My Weekly Coding Activity" />
+    <img align="top" src="[https://github-readme-stats.vercel.app/api/wakatime?username=Ruimmp&locale=en&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&custom_title=Coding Activity&title_color=FFFFFF](https://github.com/anuraghazra/github-readme-stats)" alt="My Weekly Coding Activity" />
   </a>
   <br>
   <!-- https://github.com/anuraghazra/github-readme-stats -->
