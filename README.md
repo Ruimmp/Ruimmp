@@ -21,6 +21,40 @@
 ---
 
 <p align="center">
+  <b>🙋‍♂️ About Me</b>
+</p>
+
+<p align="center">
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80px">
+  <br><br>
+  Hello, I'm Rui! I was born in Portugal and moved to Switzerland when I was 11 years old. Currently, at 21, I am studying at CPNV in Switzerland, where I am training as a generalist computer scientist, covering both development and infrastructure. Although my training is comprehensive, I have a special inclination to pursue a career in infrastructure.
+  <br><br>
+  Check out my portfolio at <a href="http://ruimmp.site" target="_blank">ruimmp.site</a>!
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Education-CPNV-green?style=flat-square&logo=education" />
+  <img src="https://img.shields.io/badge/Interest-Technology-blue?style=flat-square&logo=tech" />
+  <img src="https://img.shields.io/badge/Focus-Infrastructure-informational?style=flat-square&logo=appveyor" />
+</p>
+
+<p align="center">
+  <b>🌍 Languages</b>
+</p>
+
+<p align="center">
+  I am proficient in the following languages:
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square&logo=none" alt="Portuguese - Native" />
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=flat-square&logo=none" alt="English - Fluent" />
+  <img src="https://img.shields.io/badge/French-Fluent-blue?style=flat-square&logo=none" alt="French - Fluent" />
+</p>
+
+---
+
+<p align="center">
   <b>🏆 GitHub Trophies</b>
 </p>
 
@@ -28,34 +62,25 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ruimmp&rank=A,C&row=1&column=6&no-frame=true&theme=onedark" />
 </p>
 
+---
+
+<p align="center">
+  <b>🎵 Spotify Music</b>
+</p>
+
+<p align="center">
+    <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ikarcj39nra5gvbmh1zyd1jjj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ikarcj39nra5gvbmh1zyd1jjj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&interchange=true&bar_color=ffffff&bar_color_cover=true" />
+</p>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ikarcj39nra5gvbmh1zyd1jjj&count=5&width=350&unique=yes" alt="Spotify Recently Played" />
+</p>
+
+
+
 <!-- <p align="center">
   <b>🔨 Recent GitHub Activity</b>
 </p> -->
-
-<p align="center">
-  <b>🙋‍♂️ About Me</b>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80px">
-  <br><br>
-  Olá, eu sou o Rui! Com 21 anos de idade, estou atualmente estudando no CPNV na Suíça, onde estou me formando como informático generalista, abrangendo tanto desenvolvimento quanto infraestrutura. Apesar da minha formação abrangente, estou particularmente inclinado a seguir uma carreira em infraestrutura.
-  <br><br>
-  Confira meu portfólio em <a href="http://ruimmp.site" target="_blank">ruimmp.site</a>!
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Educação-CPNV-green?style=flat-square&logo=education" />
-  <img src="https://img.shields.io/badge/Interesse-Tecnologia-blue?style=flat-square&logo=tech" />
-  <img src="https://img.shields.io/badge/Foco-Infraestrutura-informational?style=flat-square&logo=appveyor" />
-</p>
-
-
-
-- 👨‍💻 Confira meus projetos e mais sobre mim no meu portfólio: **[ruimmp.site](http://ruimmp.site)**
-- 💬 Pergunte-me sobre **tecnologia, infraestrutura, desenvolvimento** ou qualquer outro tópico técnico.
-- 📫 Como me alcançar: `ruimmp@example.com` (substitua pelo seu email real)
-- ⚡ Curiosidade: **Sou apaixonado por tecnologia e estou sempre pronto para explorar novas áreas dentro deste vasto campo!**
 
 
 
