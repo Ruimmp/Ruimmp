@@ -1,10 +1,10 @@
 <h1 align="center">[Ruimmp]</h1>
 
-<p align="center">
-  <!-- Supondo que sua arte esteja disponível em "url_da_imagem.jpg" -->
-  <img src="url_da_imagem.jpg" alt="Arte do Perfil" />
+<!-- <p align="center">
+    Curioso
+  <img src="" alt="Arte do Perfil" />
 </p>
-
+ -->
 ---
 
 <p align="center" style="font-family: 'Raleway', sans-serif; font-size: 1.2rem;">
