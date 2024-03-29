@@ -1,0 +1,65 @@
+name: Update README with recent activity
+
+on:
+  schedule:
+    - cron: '0 * * * *' # Execute every hour
+
+jobs:
+  update-readme:
+    name: Update this repo's README with recent activity
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v2
+      - uses: jamesgeorge007/github-activity-readme@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          USERNAME: 'Ruimmp'
+          MAX_REPO_COUNT: 5
+          COMMIT_MSG: 'Updated README with recent GitHub activity'
+          CUSTOM_MESSAGE: '## My recent GitHub activity:\n'
+          SHOW_PROFILE_VIEWS: true
+          SHOW_TOP_LANGS: true
+          SHOW_WAKATIME: true
+          SHOW_ACTIVITY: true
+          SHOW_REPOS: true
+          SHOW_REPOS_COUNT: 5
+          SHOW_TOP_LANGS_COUNT: 5
+          SHOW_WAKATIME_RANGE: 'last_7_days'
+          SHOW_TOP_LANGS_RANGE: 'last_7_days'
+          SHOW_REPOS_RANGE: 'last_7_days'
+          SHOW_PROFILE_VIEWS_RANGE: 'last_7_days'
+          SHOW_ACTIVITY_RANGE: 'last_7_days'
+          SHOW_REPOS_FORKED: false
+          SHOW_REPOS_ARCHIVED: false
+          SHOW_REPOS_PUBLIC: true
+          SHOW_REPOS_PRIVATE: false
+          SHOW_REPOS_DESCRIPTION: true
+          SHOW_REPOS_STARS: true
+          SHOW_REPOS_FORKS: true
+          SHOW_REPOS_SIZE: true
+          SHOW_REPOS_TOPICS: true
+          SHOW_REPOS_CREATED: true
+          SHOW_REPOS_LAST_COMMIT: true
+          SHOW_REPOS_LANG: true
+          SHOW_REPOS_LANG_COLOR: true
+          SHOW_REPOS_CONTRIBUTORS: true
+          SHOW_REPOS_CONTRIBUTORS_COUNT: 5
+          SHOW_REPOS_CONTRIBUTORS_AVATAR: true
+          SHOW_REPOS_CONTRIBUTORS_NAME: true
+          SHOW_REPOS_CONTRIBUTORS_CONTRIBUTIONS: true
+          SHOW_REPOS_CONTRIBUTORS_FOLLOWERS: true
+          SHOW_REPOS_CONTRIBUTORS_FOLLOWING: true
+          SHOW_REPOS_CONTRIBUTORS_CREATED: true
+          SHOW_REPOS_CONTRIBUTORS_UPDATED: true
+          SHOW_REPOS_CONTRIBUTORS_BIO: true
+          SHOW_REPOS_CONTRIBUTORS_LOCATION: true
+          SHOW_REPOS_CONTRIBUTORS_EMAIL: true
+          SHOW_REPOS_CONTRIBUTORS_COMPANY: true
+          SHOW_REPOS_CONTRIBUTORS_BLOG: true
+          SHOW_REPOS_CONTRIBUTORS_TWITTER: true
+          SHOW_REPOS_CONTRIBUTORS_LINKEDIN: true
+          SHOW_REPOS_CONTRIBUTORS_ORGANIZATION: true
+          SHOW_REPOS_CONTRIBUTORS_HIREABLE: true
+          SHOW_REPOS_CONTRIBUTORS_PUBLIC_REPOS: true
+          SHOW_REPOS_CONTRIBUTORS_PUBLIC_GISTS: true
+          
