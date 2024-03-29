@@ -3,7 +3,7 @@ name: Update README with recent activity
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 * * * *' # Execute every hour
+    - cron: '*/30 * * * *' # Execute every hour
 
 jobs:
   build:
@@ -13,7 +13,14 @@ jobs:
       contents: write
 
     steps:
-      - uses: actions/checkout@v4
-      - uses: jamesgeorge007/github-activity-readme@master
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Update README with activity
+        uses: jamesgeorge007/github-activity-readme@master
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          COMMIT_MSG: ":zap: Atualizar README com a atividade recente"
+          MAX_LINES: 5
+          COMMIT_NAME: GitHub Activity Readme
