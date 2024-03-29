@@ -7,7 +7,7 @@
  -->
 ---
 
-<p align="center" style="font-family: 'Raleway', sans-serif; font-size: 1.2rem;">
+<p align="center">
   <b>🌐 Escolha outro idioma / Choisissez une autre langue:</b>
 </p>
 
@@ -30,7 +30,7 @@
 
 ---
 
-<p align="center" style="font-family: 'Raleway', sans-serif; font-size: 2rem;">
+<p align="center">
   <b>🏆 GitHub Trophies</b>
 </p>
 
@@ -38,7 +38,7 @@
   <img src="https://github-profile-trophy.vercel.app/?username=ruimmp&rank=A,C&row=1&column=6&no-frame=true&theme=onedark" />
 </p>
 
-<p align="center" style="font-family: 'Raleway', sans-serif; font-size: 2rem;">
+<p align="center">
   <b>🔨 Recent GitHub Activity</b>
 </p>
 
