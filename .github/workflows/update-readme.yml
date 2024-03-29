@@ -3,7 +3,7 @@ name: Update README with recent activity
 on:
   workflow_dispatch:
   schedule:
-    - cron: '*/30 * * * *' # Execute every hour
+    - cron: '*/1 * * * *' # Execute every minute
 
 jobs:
   build:
