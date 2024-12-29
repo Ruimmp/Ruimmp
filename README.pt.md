@@ -1,108 +1,92 @@
 <p align="center">
-  <img src="assets/images/banner.svg" alt="Banner" width="60%">
+  <img src="assets/images/banner.svg" alt="Banner" width="70%">
 </p>
 
 ---
 
 <p align="center">
-  <b>🌐 Pick another language / Choisissez une autre langue:</b>
+  <b>🌍 Choose another language / Choisissez une autre langue</b>
 </p>
 
 <p align="center">
   <a href="README.md">
-    <img src="https://img.shields.io/badge/EN-English-3458eb?style=for-the-badge&logo=none" alt="English"/>
+    <img src="https://img.shields.io/badge/EN-Inglês-3458eb?style=for-the-badge" alt="Inglês"/>
   </a>
-  <br>
   <a href="README.fr.md">
-    <img src="https://img.shields.io/badge/FR-Français-007bff?style=for-the-badge&logo=none" alt="Francês"/>
+    <img src="https://img.shields.io/badge/FR-Français-007bff?style=for-the-badge" alt="Français"/>
   </a>
 </p>
 
 ---
 
-<p align="center">
-  <b>🙋‍♂️ Sobre Mim</b>
-</p>
+<h2 align="center">🙋‍♂️ Sobre Mim</h2>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="80px">
   <br><br>
-  Olá, sou o Rui! Nasci em Portugal e me mudei para a Suíça aos 11 anos de idade. Atualmente, aos 21 anos, estou estudando no CPNV na Suíça, onde me formo como informático generalista, abrangendo tanto o desenvolvimento quanto a infraestrutura. Embora minha formação seja abrangente, tenho uma inclinação especial para seguir uma carreira em infraestrutura.
+  Olá, eu sou o <b>Rui</b>! Originalmente de Portugal, mudei-me para a Suíça aos 12 anos, uma experiência que me ensinou adaptabilidade e perseverança. Atualmente, estou a especializar-me em <b>Engenharia de Sistemas</b>.
   <br><br>
-  Confira meu portfólio em <a href="http://ruimmp.site" target="_blank">ruimmp.site</a>!
+  O meu entusiasmo pela tecnologia vai além dos estudos. Adoro explorar soluções inovadoras, mergulhar em quebra-cabeças de programação e manter-me atualizado com as últimas tendências em TI. Para mim, a tecnologia é um campo dinâmico que une criatividade e resolução de problemas, permitindo conexões significativas e progresso.
+  <br><br>
+  Fora dos estudos, gosto de jogar videojogos, ver filmes e séries cativantes. A música também desempenha um papel importante no meu tempo livre, alimentando a inspiração e o relaxamento. Esses interesses muitas vezes proporcionam novas perspetivas para os meus projetos técnicos e empreendimentos criativos.
+  <br><br>
+  Sinta-se à vontade para explorar o meu <a href="https://portfolio.ruimmp.com/" target="_blank">portfólio</a> para saber mais sobre o meu trabalho e aspirações!
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Educação-CPNV-green?style=flat-square&logo=education" />
-  <img src="https://img.shields.io/badge/Interesse-Tecnologia-blue?style=flat-square&logo=tech" />
-  <img src="https://img.shields.io/badge/Foco-Infraestrutura-informational?style=flat-square&logo=appveyor" />
-</p>
-
----
-
-<p align="center">
-  <b>🌍 Idiomas</b>
-</p>
-
-<p align="center">
-  Tenho proficiência nos seguintes idiomas:
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Português-Nativo-green?style=flat-square&logo=none" alt="Português - Nativo" />
-  <img src="https://img.shields.io/badge/Inglês-Fluente-blue?style=flat-square&logo=none" alt="Inglês - Fluente" />
-  <img src="https://img.shields.io/badge/Francês-Fluente-blue?style=flat-square&logo=none" alt="Francês - Fluente" />
+  <img src="https://img.shields.io/badge/Education-CPNV-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Interest-Technology-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Infrastructure-informational?style=flat-square"/>
 </p>
 
 ---
 
-<p align="center">
-  <b>🏆 Troféus do GitHub</b>
-</p>
+<h2 align="center">🌍 Idiomas</h2>
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruimmp&rank=A,C&row=1&column=6&no-frame=true&theme=onedark" />
-</p>
-
----
-
-<p align="center">
-  <b>🎵 Música no Spotify</b>
-</p>
-
-<!--
-<p align="center">
-  <img src="https://spotify-github-profile.vercel.app/api/view.svg?uid=ikarcj39nra5gvbmh1zyd1jjj&redirect=true][https://spotify-github-profile.vercel.app/api/view.svg?uid=ikarcj39nra5gvbmh1zyd1jjj&cover_image=true&theme=natemoo-re&show_offline=true&background_color=121212&bar_color=ffffff&bar_color_cover=false" />
-</p>
--->
-
-<p align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ikarcj39nra5gvbmh1zyd1jjj&count=5&width=350&unique=yes" alt="Spotify - Reproduzido Recentemente" />
+  <img src="https://img.shields.io/badge/Portuguese-Native-green?style=flat-square" alt="Portuguese"/>
+  <img src="https://img.shields.io/badge/English-Fluent-blue?style=flat-square" alt="English"/>
+  <img src="https://img.shields.io/badge/French-Fluent-blue?style=flat-square" alt="French"/>
 </p>
 
 ---
 
-<p align="center">
-  <b>📊 Dados do GitHub</b>
-</p>
+<h2 align="center">🏆 Conquistas</h2>
 
 <p align="center">
-  <!-- https://git.io/streak-stats -->
-  <a>
-    <img align="top" src="https://github-readme-streak-stats.herokuapp.com/?user=ruimmp&locale=pt_BR&theme=highcontrast&hide_border=true&fire=DD2727&ring=DD2727&currStreakNum=DD2727" alt="Minha Sequência no GitHub" />
-  </a>
+  <img src="https://github-profile-trophy.vercel.app/?username=ruimmp&rank=A,C,S&row=1&column=6&theme=onedark" alt="GitHub Trophies"/>
+</p>
+
+---
+
+<h2 align="center">🎵 Meu Spotify</h2>
+
+<p align="center">
+  <img src="https://spotify-recently-played-readme.vercel.app/api?user=ikarcj39nra5gvbmh1zyd1jjj&count=5&width=400&unique=yes" alt="Spotify Recently Played"/>
+</p>
+
+---
+
+<h2 align="center">📊 Estatísticas do GitHub</h2>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruimmp&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats"/>
   <br>
-  <!-- https://github.com/anuraghazra/github-readme-stats?tab=readme-ov-file#wakatime-stats-card -->
-  <a>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimmp&locale=pt-pt&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&title_color=FFFFFF" alt="Minha Atividade de Programação" />
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimmp&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages"/>
   <br>
-  <!-- https://github.com/anuraghazra/github-readme-stats -->
-  <a>
-    <img align="top" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimmp&locale=pt-pt&layout=compact&theme=vision-friendly-dark&hide_border=true&langs_count=10&hide=html,css&exclude_repo=ruimmp.github.io&card_width=445&title_color=FFFFFF" alt="Minhas Linguagens Mais Usadas" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimmp&theme=vision-friendly-dark&layout=compact&hide_border=true" alt="Weekly Coding Activity"/>
+</p>
+
+---
+
+<h2 align="center">📩 Vamos Nos Conectar!</h2>
+
+<p align="center">
+  <a href="mailto:contact@ruimmp.com" target="_blank">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
 <p align="center">
-  <img src="assets/images/footer.svg" alt="Banner" width="100%" height="200">
+  <img src="assets/images/footer.svg" alt="Footer" width="100%">
 </p>
