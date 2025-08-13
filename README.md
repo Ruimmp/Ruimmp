@@ -51,14 +51,6 @@
 
 ---
 
-<h2 align="center">🏆 Achievements</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruimmp&rank=A,C,S&row=1&column=6&theme=onedark" alt="GitHub Trophies"/>
-</p>
-
----
-
 <h2 align="center">🎵 My Spotify</h2>
 
 <p align="center">
