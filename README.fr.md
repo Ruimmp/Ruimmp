@@ -51,14 +51,6 @@
 
 ---
 
-<h2 align="center">🏆 Réalisations</h2>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ruimmp&rank=A,C,S&row=1&column=6&theme=onedark" alt="Trophées GitHub"/>
-</p>
-
----
-
 <h2 align="center">🎵 Mon Spotify</h2>
 
 <p align="center">
@@ -70,8 +62,6 @@
 <h2 align="center">📊 Statistiques GitHub</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruimmp&theme=highcontrast&hide_border=true" alt="Statistiques de série GitHub"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimmp&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Langages les plus utilisés"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimmp&theme=vision-friendly-dark&layout=compact&hide_border=true" alt="Activité de codage hebdomadaire"/>
