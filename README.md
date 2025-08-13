@@ -62,8 +62,6 @@
 <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ruimmp&theme=highcontrast&hide_border=true" alt="GitHub Streak Stats"/>
-  <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ruimmp&layout=compact&theme=vision-friendly-dark&hide_border=true" alt="Top Languages"/>
   <br>
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Ruimmp&theme=vision-friendly-dark&layout=compact&hide_border=true" alt="Weekly Coding Activity"/>
